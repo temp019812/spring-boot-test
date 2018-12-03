@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;limits-service.properties&apos; to &apos;spring-cloud-config-server/git-repo-localconfig&apos;&#x0A;- Original project: &apos;spring-cloud-config-server&apos;&#x0A;- Destination element: &apos;spring-cloud-config-server/git-repo-localconfig&apos;&#x0A;- Original element: &apos;limits-service.properties&apos;" description="Copy file" destination="/git-repo-localconfig" element1="git-repo-localconfig/limits-service.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1541831720182" units="0" version="1.0"/>
+</session>

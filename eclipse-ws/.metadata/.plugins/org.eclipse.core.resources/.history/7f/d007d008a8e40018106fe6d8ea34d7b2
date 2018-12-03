@@ -1,0 +1,5 @@
+package com.test.limitsservice;
+
+public class Configuration {
+
+}
